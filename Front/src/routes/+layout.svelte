@@ -33,4 +33,6 @@
 </nav>
 
 <slot />
-<!-- Footer -->
+<footer class="bg-dark text-white text-center py-3">
+  <p>&copy; 2025 CodeLabs. Todos los derechos reservados.</p>
+</footer>
