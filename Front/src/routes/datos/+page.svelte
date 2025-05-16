@@ -1,0 +1,1 @@
+<iframe title="yo" width="100%" height="561.25" src="https://app.powerbi.com/reportEmbed?reportId=8e3e3d79-a8a3-4f94-9aa0-5a7ffc7e7550&autoAuth=true&ctid=740be6bd-fd36-470e-94d9-0f0c777fadb9" frameborder="0" allowFullScreen="true"></iframe>

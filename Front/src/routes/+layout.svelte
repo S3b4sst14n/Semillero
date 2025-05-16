@@ -23,15 +23,11 @@
         <a class="nav-link" href="/">Inicio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/about">Datos Reales</a>
+        <a class="nav-link" href="/about">Datos de muestra</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/Visualizacion">Visualizacion</a>
+        <a class="nav-link" href="/datos">Visualizacion</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/login">Login</a>
-      </li>
-      
     </ul>
   </div>
 </nav>

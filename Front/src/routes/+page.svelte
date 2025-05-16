@@ -79,6 +79,6 @@
       Optimiza, controla y mejora los procesos logísticos en la Zona Franca de Barranquilla con nuestro sistema enfocado en la gestión eficiente de los tiempos de carga y descarga.
       Un proyecto del semillero CodeLabs, orientado a la transformación digital y la mejora operativa del sector logístico.
     </p>
-    <a href="https://svelte.dev/docs/kit" target="_blank">Conoce el proyecto</a>
+    <a href="/login">Conoce nuestro proyecto</a>
   </div>
 </div>
