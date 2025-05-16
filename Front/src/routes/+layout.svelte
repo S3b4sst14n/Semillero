@@ -20,14 +20,18 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ms-auto">
       <li class="nav-item">
-        <a class="nav-link" href="/">Home</a>
+        <a class="nav-link" href="/">Inicio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/about">Contacto</a>
+        <a class="nav-link" href="/about">Datos Reales</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/Visualizacion">Visualizacion</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/login">Login</a>
       </li>
+      
     </ul>
   </div>
 </nav>
