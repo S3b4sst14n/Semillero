@@ -23,7 +23,7 @@
         <a class="nav-link" href="/">Inicio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/about">Datos de muestra</a>
+        <a class="nav-link" href="/ejbase">Datos de muestra</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/datos">Visualizacion</a>
